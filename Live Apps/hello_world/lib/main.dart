@@ -13,6 +13,7 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(
           title: Text('Hello World!!'),
           backgroundColor: Colors.purple,
+          titleSpacing: 148,
         ),
         body: Center(
           child: Text(
